@@ -28,7 +28,8 @@ const PROXY_CONFIG = {
   "/tv": "https://tv.gally.ddns-ip.net",
   "/news": "https://newsnow-ahm.pages.dev",
   "/sophnet":"https://sophnet.com",
-  "/grok":"https://grok.com"
+  "/grok":"https://grok.com",
+  "/cerebras":"https://api.cerebras.ai"
 };
 
 // 需要修复路径的内容类型
