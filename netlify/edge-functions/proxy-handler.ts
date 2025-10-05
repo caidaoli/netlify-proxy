@@ -29,7 +29,8 @@ const PROXY_CONFIG = {
   "/news": "https://newsnow-ahm.pages.dev",
   "/sophnet":"https://sophnet.com",
   "/grok":"https://grok.com",
-  "/cerebras":"https://api.cerebras.ai"
+  "/cerebras":"https://api.cerebras.ai",
+  "/88code":"https://www.88code.org/api"
 };
 
 // 需要修复路径的内容类型
